@@ -48,11 +48,13 @@
 
 ---
 
+
 ## 📊 Estatísticas
 
-<div align="center" user:pedroTuribio>
+<div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroTuribio&theme=tokyonight&hide_border=true" />
 
 <br><br>
@@ -61,7 +63,9 @@
 
 </div>
 
+
 ---
+
 
 ## 💼 Projetos em Destaque
 
@@ -72,6 +76,7 @@
 </a>
 
 </div>
+
 
 ---
 
