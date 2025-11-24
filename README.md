@@ -49,33 +49,10 @@
 ---
 
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroTuribio&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedroTuribio&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 
 ---
 
 
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/pedroTuribio/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedroTuribio&repo=Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 
 ---
