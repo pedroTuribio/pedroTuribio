@@ -50,13 +50,6 @@
 
 
 
----
-
-
-
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
