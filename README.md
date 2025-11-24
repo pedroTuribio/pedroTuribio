@@ -50,7 +50,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="center" user:pedroTuribio>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroTuribio&theme=tokyonight&hide_border=true" />
