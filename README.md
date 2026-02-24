@@ -1,4 +1,7 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedroTuribio/pedroTuribio/main/assets/orbital.svg" />
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2A5298&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Pedro+Carvalho!;💻+Estudante+de+Engenharia+de+Software;🚀+Apaixonado+por+tecnologia+e+inovação!" />
 
 <h3 align="center">💡 Versão beta da vida.</h3>
