@@ -1,1 +1,34 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .orbit {
+      fill: none;
+      stroke: #1f6feb;
+      stroke-width: 1;
+      opacity: 0.4;
+      animation: spin 20s linear infinite;
+      transform-origin: 300px 300px;
+    }
 
+    .planet {
+      fill: #58a6ff;
+    }
+
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  </style>
+
+  <!-- Núcleo -->
+  <circle cx="300" cy="300" r="60" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+
+  <!-- Órbitas -->
+  <circle class="orbit" cx="300" cy="300" r="120"/>
+  <circle class="orbit" cx="300" cy="300" r="180"/>
+  <circle class="orbit" cx="300" cy="300" r="240"/>
+
+  <!-- Planetas -->
+  <circle class="planet" cx="420" cy="300" r="10"/>
+  <circle class="planet" cx="480" cy="300" r="10"/>
+  <circle class="planet" cx="540" cy="300" r="10"/>
+</svg>
