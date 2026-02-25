@@ -29,14 +29,12 @@
 
 **Linguagens**  
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
 ![REACT](https://skillicons.dev/icons?i=react&theme=dark&perline=15).
 
 
 
 **Frameworks e Bibliotecas**  
 ![react](https://skillicons.dev/icons?i=react)
-![fastapi](https://skillicons.dev/icons?i=fastapi)
 ![tkinter](https://img.shields.io/badge/Tkinter-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Ferramentas**  
