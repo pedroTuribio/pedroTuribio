@@ -4,7 +4,7 @@
 <h3 align="center">💡 Versão beta da vida.</h3>
 
 <p align="center">
-🚀 Estudando <strong>Python</strong>, <strong>Java</strong> e <strong>React</strong><br>
+🚀 Estudando <strong>Python</strong>,  e <strong>React</strong><br>
 🔥 Criando projetos para evoluir sempre  
 </p>
 
