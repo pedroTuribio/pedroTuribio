@@ -1,58 +1,68 @@
-<!-- HEADER -->
-
-
-<p align="center">
-🚀 Estudando <strong>Python</strong>,  e <strong>React</strong><br>
-🔥 Criando projetos para evoluir sempre  
-</p>
+<div align="center">
+  <h1>Olá, eu sou o Pedro Turibio 👋</h1>
+  <p>🚀 <strong>Engenheiro de Software em formação</strong> | 👨‍🏫 <strong>Instrutor de TI</strong> | 🧠 <strong>Entusiasta de IA</strong></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square&label=VISITAS+AO+PERFIL" alt="pedroTuribio" />
+  </p>
+</div>
 
 ---
 
-## 🧠 Sobre mim
-<div align="center">
+## 🧠 Sobre Mim
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Sou graduando em **Engenharia de Software** (5º período) e atuo há **4 anos como Instrutor de Informática**. Minha trajetória é marcada pela versatilidade: transito entre o desenvolvimento de software, análise de dados e a infraestrutura de redes.
 
-💡 Sempre aprendendo e evoluindo  
-⚙️ Transformando ideias em projetos reais  
-🎯 Foco total em crescimento profissional  
-
-</div>
+- 🎓 **Engenharia de Software** (Em andamento)
+- 👨‍🏫 **4 anos de experiência** com ensino técnico e suporte.
+- 🤖 Especialização em **Redes Neurais Artificiais** e **IA** aplicada ao desenvolvimento.
+- 📍 Palmas - TO
 
 ---
 
 ## 🚀 Tech Stack
 
-<div align="center">
+### 💻 Desenvolvimento & Linguagens
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap&perline=10" />
+</div>
 
-**Linguagens**  
-![Python](https://skillicons.dev/icons?i=python)
-![REACT](https://skillicons.dev/icons?i=react&theme=dark&perline=15).
+### 📊 Dados & Inteligência Artificial
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,py&perline=10" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Neural_Networks-000000?style=for-the-badge&logo=data:image/png;base64,..." alt="AI" />
+</div>
 
-
-
-**Frameworks e Bibliotecas**  
-![react](https://skillicons.dev/icons?i=react)
-![tkinter](https://img.shields.io/badge/Tkinter-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Ferramentas**  
-![github](https://skillicons.dev/icons?i=github)
-![figma](https://skillicons.dev/icons?i=figma)
-![vscode](https://skillicons.dev/icons?i=vscode)
-
+### ⚙️ Infraestrutura & Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,windows,linux&perline=10" />
+  <img src="https://img.shields.io/badge/Redes-Cisco-blue?style=for-the-badge&logo=cisco" alt="Redes" />
 </div>
 
 ---
 
-
-
-## 🌐 Conecte-se comigo
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroTuribio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroTuribio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-carvalho-turibio-78158337a/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_pedrocarvalhot/)
+---
 
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-carvalho-turibio-78158337a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_pedrocarvalhot/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:pedrocarvalhoturibio5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </div>
 
 ---
@@ -61,13 +71,4 @@
   <em>💬 “Aprender é o único deploy que nunca falha.”</em><br>
   🚀 <strong>– Pedro Carvalho</strong>
 </p>
-
- ----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedroTuribio&color=blueviolet&style=flat-square"/>
-</p>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/pedroTuribio/cinePatterns)
-![GitHub stars](https://img.shields.io/github/stars/pedroTuribio/cinePatterns)
-![GitHub license](https://img.shields.io/github/license/pedroTuribio/cinePatterns)
 
